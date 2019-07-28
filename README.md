@@ -1,21 +1,20 @@
 Color Erase
 ===========
 
-<style>
-	img {
-		width: 10%;
-	}
-</style>
-
 ## Introductions
 
-This script takes a picture, a layer, and strips the layer from the base picture. 
+This script takes a picture, a layer, and strips the layer from the base picture.
 
 ### Example
 
 ![base](.example/example_base.png)
 ![layer](.example/example_erase.png)
 ![output](.example/example_output.png)
+
+## [Download link](https://raw.githubusercontent.com/Cesese/gimp-scripts/master/script.scm)
+
+- Right Click
+- Save Link As...
 
 ## How to use it
 
